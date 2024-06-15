@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "USB_PD_FUSB302"
+		},
+		{
+			"path": "LoRa-PD"
+		}
+	],
+	"settings": {}
+}
