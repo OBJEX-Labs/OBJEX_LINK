@@ -29,4 +29,4 @@ fp-info-cache
 *.csv
 
 # MacOS metadata files
-*.DS_Store
+**.DS_Store
